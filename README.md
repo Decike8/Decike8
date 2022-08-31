@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning everything what I could possibly learn from scratch
 - 💞️ I’m looking to collaborate on projects that enable technology growth
 - 📫 How to reach me: Discord - @Decike#2749
-                      Email - decebal.botosanu@yahoo.com
                       Twitter - @DecebalBotosanu
 
 <!---
